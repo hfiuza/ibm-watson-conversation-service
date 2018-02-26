@@ -14,7 +14,7 @@ declared-services:
     plan: standard
 applications:
   # Application name
-- name: xxxxxxxxxxxxxxx
+- name: conversation-service-by-hfiuza
   command: npm start
   path: .
-  memory: 512M
+  memory: 256M
